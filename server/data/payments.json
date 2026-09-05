@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "invoiceId": "3",
+    "customerId": "1",
+    "amount": 5.300000000000001,
+    "date": "2026-09-03",
+    "status": "Paid",
+    "method": "Cash"
+  },
+  {
+    "id": 2,
+    "invoiceId": "1",
+    "customerId": 1,
+    "amount": 2000,
+    "date": "2026-09-05",
+    "status": "Paid",
+    "method": "Cash"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-001",
+    "customerId": 1,
+    "date": "2026-09-01",
+    "dueDate": "2026-09-15",
+    "items": [
+      {
+        "description": "Web Development",
+        "quantity": 1,
+        "unitPrice": 1000,
+        "total": 1000
+      }
+    ],
+    "tax": 100,
+    "discount": 0,
+    "total": 2000,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-002",
+    "customerId": "1",
+    "date": "2026-09-05",
+    "dueDate": "2026-09-10",
+    "items": [
+      {
+        "description": "Cheese",
+        "quantity": 11,
+        "unitPrice": 2000,
+        "total": 22000
+      }
+    ],
+    "tax": 3,
+    "discount": 3,
+    "total": 22657,
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-003",
+    "customerId": "1",
+    "date": "2026-09-01",
+    "dueDate": "2026-09-03",
+    "items": [
+      {
+        "description": "Cake",
+        "quantity": 6,
+        "unitPrice": 1.05,
+        "total": 6.300000000000001
+      }
+    ],
+    "tax": 0,
+    "discount": 1,
+    "total": 5.300000000000001,
+    "status": "Paid"
+  }
+]

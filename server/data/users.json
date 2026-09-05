@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "$2b$10$Su79n5D/3SyzWNQbUUAXjel7LKSkvAY9RncOczxHGW.8NWMRJRYkm",
+    "role": "administrator"
+  },
+  {
+    "id": 2,
+    "name": "Business Owner",
+    "email": "owner@example.com",
+    "password": "$2b$10$Su79n5D/3SyzWNQbUUAXjel7LKSkvAY9RncOczxHGW.8NWMRJRYkm",
+    "role": "business owner"
+  },
+  {
+    "id": 3,
+    "name": "Accountant",
+    "email": "accountant@example.com",
+    "password": "$2b$10$Su79n5D/3SyzWNQbUUAXjel7LKSkvAY9RncOczxHGW.8NWMRJRYkm",
+    "role": "accountant"
+  },
+  {
+    "id": 4,
+    "name": "Customer User",
+    "email": "customer@example.com",
+    "password": "$2b$10$Su79n5D/3SyzWNQbUUAXjel7LKSkvAY9RncOczxHGW.8NWMRJRYkm",
+    "role": "customer"
+  }
+]
