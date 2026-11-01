@@ -19,10 +19,10 @@ A complete web application for managing invoices, customers, and payments built 
 - **Backend:** Node.js, Express, bcryptjs, jsonwebtoken, CORS
 - **Database:** Local JSON files (\`server/data\`)
 
-## Folder Structure
+## 📁 Folder Structure
 
-\`\`\`
-invoice management/
+```text
+invoice-management/
 ├── client/                 # Frontend React Application
 │   ├── public/
 │   ├── src/
@@ -37,11 +37,11 @@ invoice management/
 │   ├── data/               # JSON database files
 │   ├── middleware/         # Express middlewares (auth)
 │   ├── routes/             # API routes
-│   ├── server.js           # Main Express server
-│   ├── seed.js             # Script to generate sample data
+│   ├── server.js            # Main Express server
+│   ├── seed.js              # Script to generate sample data
 │   └── package.json
 └── README.md
-\`\`\`
+```
 
 ## Installation & Setup
 
